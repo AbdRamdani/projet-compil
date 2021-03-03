@@ -1,0 +1,48 @@
+## PROCESS $ ## LOOP $
+## ARRAY$
+Programme Namee 
+{     	
+
+	/* RAMDANI Abderrahmane KESSIR Ouassim groupe 1 */	
+	
+	VAR
+	 REAL :: Axze2$
+	 REAL ::Hello$
+	INTEGER :: Zee[2] $
+	
+	CONST   
+	REAL :: ASs:=(-22.2)$
+	STRING :: Ae:="hello"$
+	REAL :: Res:='a'//ASs:=2.2$
+	
+	
+		
+	
+	
+	Ress :=(-2.2)+Aze*3$
+	Ze[2] :=Zz  + 2.2$
+	
+	
+	WRITE("ff")$
+	
+	READ("#" |@Hello)$
+	
+	WRITE("ff"| Hel)$
+	
+	
+	
+	WHILE(Azz+Zee+1 SUP 2)
+	{
+		Iddd:=Iddd/3$
+	}
+	
+	
+	EXECUT Ress :=(-2.2)	$ 
+	IF (1 INF 3 )
+	ELSE 
+	EXECUT  ZE2[7] := "hello"$
+	END_IF
+
+
+	
+	}
